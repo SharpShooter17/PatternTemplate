@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decorator" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAgAAAAAAAAAAAAAABAAAAAAAAABAAA=</HashCode>
+      <FileName>Decorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteComponentA" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ConcreteComponentA.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteDecoratorA" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAA=</HashCode>
+      <FileName>ConcreteDecoratorA.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteDecoratorB" Collapsed="true">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAA=</HashCode>
+      <FileName>ConcreteDecoratorB.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
