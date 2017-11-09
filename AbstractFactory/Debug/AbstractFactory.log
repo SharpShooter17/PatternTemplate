@@ -1,0 +1,14 @@
+﻿  RAM.cpp
+  Processor.cpp
+  PcRAM.cpp
+  PcProcessor.cpp
+  PcFactory.cpp
+  mian.cpp
+  LaptopRAM.cpp
+  LaptopProcessor.cpp
+  LaptopFactory.cpp
+  ComputerFactory.cpp
+  Computer.cpp
+  Generowanie kodu...
+  AbstractFactory.vcxproj -> D:\Programowanie\C++\Wzorce\AbstractFactory\AbstractFactory\Debug\AbstractFactory.exe
+  AbstractFactory.vcxproj -> D:\Programowanie\C++\Wzorce\AbstractFactory\AbstractFactory\Debug\AbstractFactory.pdb (Partial PDB)

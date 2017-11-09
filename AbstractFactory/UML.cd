@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Computer" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAACAAAAAAAAAAAAAAAAARAAAAAAAAAAAAE=</HashCode>
+      <FileName>Computer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerFactory" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAABAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAA=</HashCode>
+      <FileName>ComputerFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaptopFactory" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAAgA=</HashCode>
+      <FileName>LaptopFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaptopProcessor" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAQ=</HashCode>
+      <FileName>LaptopProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaptopRAM" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>LaptopRAM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcFactory" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAEAAAAgAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PcFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcProcessor" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>PcProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcRAM" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>PcRAM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Processor" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAEAAA=</HashCode>
+      <FileName>Processor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RAM" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>RAM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
